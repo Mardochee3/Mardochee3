@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/Mordecai
 [instagram]: https://www.instagram.com/Mordecai_3
-[linkedin]: https://linkedin.com/www.linkedin.com/in/mordecai-mbayo-514075268
+[linkedin]: https://linkedin.com/mordecai-mbayo-514075268
