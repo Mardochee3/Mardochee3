@@ -1,6 +1,6 @@
 ## Hi there 
 
-<h1>Hi, I'm Mordecai, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
+<h1>Hi, I'm Mordecai, an <a href="https://linkedin.com/in/Mordecai">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/Mordecai
 [instagram]: https://www.instagram.com/Mordecai_3
-[linkedin]: https://linkedin.com/in/Mordecai Mbayo
+[linkedin]: https://linkedin.com/www.linkedin.com/in/mordecai-mbayo-514075268
