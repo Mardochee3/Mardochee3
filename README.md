@@ -11,62 +11,6 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-
-
-<h2>Video Demonstration</h2> 
-In this video, i demonstrate how to capture and analayze network traffic between Azure virtual machines using wireshark, while also configuring and testing Network Secuirty Groups. By the end, youll understand how to monitor traffic, identify patterns, and secure your Azure enivornment.
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups]
-(https://youtu.be/Mu_2UnOdVHM?si=Jwl98FpySdpwbuTu)
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute) We use Azure virtual machines to create scalable cloud-based environments for network experimentation and monitoring.
-- Remote Desktop Remote Desktop allows us to securely log in to these virtual machines, providing direct access for setup and troubleshooting.
-- Various Command-Line Tools We examine network traffic using protocols such as ssh,rdh,dns,https,and icmp,helping us monitor and secure commnications betwwen systems.
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer) Wireshark is used to capture and analyze packet-level data, giving us detailed insights into network behavior.
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10 (21H2) We use windows 10 (21h2) to perform desktop-based tasks, allowing us to simulate user interactions and test client-side applications
-- Ubuntu Server 20.04 We use ubuntu server 20.04 for cloud-based and server-side operations, providing a lightweight and secure environment for backend processes and network testing.
-
-<h2>High-Level Steps</h2>
-
-- Step 1 Set up two VMs( Windows and unbuntu) in Azure and ensure they're configured correctly.
-- Step 2 Use Remote Desktop to log into both VMs and verify connectivity.
-- Step 3 Create and assign NSGs to control inbound and outbound traffic between the VMs.
-- Step 4 Install wire shark on one VM, start captruring traffic, and observe protocol actvity like SSH, DNS, AND HTTP.
-
-<h2>Actions and Observations</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<h2>🤳Connect with me:</h2>
-
 [<img align="left" alt="Mordecai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mordecai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mordecai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
